@@ -7,6 +7,8 @@ body {
     flex-direction: column;
     justify-content: space-between;
     --cor-destaque: #87cefa;
+    margin: 0;
+    padding: 0;
 }
 
 .header {
